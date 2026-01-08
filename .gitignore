@@ -1,0 +1,11 @@
+# C++ compiled executables
+*.exe
+*.o
+*.out
+
+# VSCode settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
